@@ -30,7 +30,10 @@ function rectangleArea(x1, x2){
  Joldosh.favouriteBoooks = ["Harry Potter", "Little Women"];
  console.log(Joldosh.favouriteBoooks);
 
+ //delete
  
+
+
 
 
 
